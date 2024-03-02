@@ -1,0 +1,141 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'merryweather',sans-serif;
+    font-size: 2em;
+    color: #40514E;
+}
+
+h1{
+    margin: 50px auto 0 auto;
+    font-size: 5.625rem;
+    font-family: 'Sacramento',cursive;
+    color: #66bfbf;
+}
+
+hr{
+    border: dotted #eaf6f6;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+h2{
+    font-size: 2.5rem;
+    color: #66bfbf;
+    font-family: 'Sacramento',cursive;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+.skills{
+   width: 50%; 
+   margin: 100px auto;
+   text-align: left;
+   line-height: 2;
+   
+}
+
+p{
+    line-height: 2;
+}
+
+h3{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    
+    
+}
+.code-img{
+    width: 100px;
+    float: left;
+    margin-right: 30px;
+    border-radius: 100%;
+}
+
+.Typing-img{
+    width: 100px;
+    float: right;
+    margin-right: 30px;
+    border-radius: 100%;
+}
+
+.middle-container{
+    
+    
+}
+.profile img{
+    border-radius: 100%;
+}
+
+.top_container img{
+    border-radius: 100%;
+}
+
+.bottom-container{
+    background-color: #66bfbf;
+    padding: 50px 0 20px;
+  
+
+}
+
+
+
+.intro{
+    width: 30%;
+    margin: auto;
+}
+
+
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+    
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+.mountain{
+    padding: 80px;
+}
+.btn{
+    border-radius: 8px;
+    background-image: linear-gradient( to bottom, #11cdd4, #11999e);
+    font-family: Ariel;
+    color: #ffffff;
+    font-size: 28px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    border-color: none;
+    
+}
+
+.btn:hover{
+    background: #30e3cb;
+    background-image: linear-gradient( to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+}
+.contact-me{
+   width: 40%; 
+   margin: 40px auto 60px;
+}
+
+
+.copyright{
+    color: white;
+    font-size: 0.7rem;
+}
+
+a{
+    color: #11999E;
+    font-family: sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #eaf6f6;
+}
